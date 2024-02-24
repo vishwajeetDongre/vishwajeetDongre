@@ -46,9 +46,9 @@
 
 ###
 
-- Number of Repositories: [![Repos Badge](https://badgen.net/badge/Repositories/2/blue)](https://github.com/vishwajeetDongre)
-- Total Followers: [![Followers Badge](https://badgen.net/github/followers/vishwajeetDongre)](https://github.com/vishwajeetDongre)
-- Total Commits: [![Commits Badge](https://badgen.net/github/commits/vishwajeetDongre)](https://github.com/vishwajeetDongre)
-- Number of Stars: [![Stars Badge](https://badgen.net/github/stars/vishwajeetDongre)](https://github.com/vishwajeetDongre)
-- Number of Achievements: [![Achievements Badge](https://badgen.net/badge/Achievements/5/yellow)](https://github.com/vishwajeetDongre)
-- Total Pull Requests: [![Pull Requests Badge](https://badgen.net/github/prs/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Number of Repositories: [![Repos Badge](https://badgen.net/badge/Repositories/21/blue)](https://github.com/vishwajeetDongre)
+- Total Followers: [![Followers Badge](https://badgen.net/github/followers/1/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Total Commits: [![Commits Badge](https://badgen.net/github/commits/60/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Number of Stars: [![Stars Badge](https://badgen.net/github/stars/0/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Number of Achievements: [![Achievements Badge](https://badgen.net/badge/Achievements/1/yellow)](https://github.com/vishwajeetDongre)
+- Total Pull Requests: [![Pull Requests Badge](https://badgen.net/github/prs/0/vishwajeetDongre)](https://github.com/vishwajeetDongre)
