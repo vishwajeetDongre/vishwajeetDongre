@@ -47,7 +47,7 @@
 
 ###
 
-- Number of Repositories: [![Repos Badge](https://badgen.net/badge/Repositories/21/blue)](https://github.com/vishwajeetDongre)
+- Number of Repositories: [![Repos Badge](https://badgen.net/badge/Repositories/10/blue)](https://github.com/vishwajeetDongre)
 - Total Commits: [![Commits Badge](https://badgen.net/github/commits/5/vishwajeetDongre)](https://github.com/vishwajeetDongre)
 - Number of Stars: [![Stars Badge](https://badgen.net/github/stars/0/vishwajeetDongre)](https://github.com/vishwajeetDongre)
 - Number of Achievements: [![Achievements Badge](https://badgen.net/badge/Achievements/1/yellow)](https://github.com/vishwajeetDongre)
