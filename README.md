@@ -3,13 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeetDongre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeetDongre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -46,3 +45,10 @@
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
+
+- Number of Repositories: [![Repos Badge](https://badgen.net/badge/Repositories/2/blue)](https://github.com/vishwajeetDongre)
+- Total Followers: [![Followers Badge](https://badgen.net/github/followers/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Total Commits: [![Commits Badge](https://badgen.net/github/commits/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Number of Stars: [![Stars Badge](https://badgen.net/github/stars/vishwajeetDongre)](https://github.com/vishwajeetDongre)
+- Number of Achievements: [![Achievements Badge](https://badgen.net/badge/Achievements/5/yellow)](https://github.com/vishwajeetDongre)
+- Total Pull Requests: [![Pull Requests Badge](https://badgen.net/github/prs/vishwajeetDongre)](https://github.com/vishwajeetDongre)
